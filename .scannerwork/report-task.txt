@@ -1,0 +1,6 @@
+projectKey=Python-Beta1-0.2
+serverUrl=http://localhost:9000
+serverVersion=7.2.0.13530
+dashboardUrl=http://localhost:9000/dashboard?id=Python-Beta1-0.2
+ceTaskId=AYH-mE-_4pcGhNkHKiSF
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYH-mE-_4pcGhNkHKiSF
